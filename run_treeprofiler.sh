@@ -7,6 +7,8 @@ treeprofiler annotate \
 --taxon-column name \
 --taxadb gtdb \
 --taxa-dump ./gtdb207dump.tar.gz \
+--prec-cutoff 0.5 \
+--sens-cutoff 0.5 \
 -o ./
 
 
