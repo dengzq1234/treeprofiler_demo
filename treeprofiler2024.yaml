@@ -1,0 +1,17 @@
+name: treeprofiler
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - pip:
+    - https://github.com/etetoolkit/ete/archive/ete4.zip
+    - biopython
+    - selenium
+    - scipy
+    - matplotlib
+    - numba
+    - numpy
+    - git+https://github.com/dengzq1234/pastml.git@pastml2ete4
+    - git+https://github.com/compgenomicslab/TreeProfiler@dev-repo
