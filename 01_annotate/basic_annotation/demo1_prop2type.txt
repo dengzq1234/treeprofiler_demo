@@ -1,0 +1,14 @@
+categorical1	str
+random_column1	float
+random_column2	float
+random_column3	float
+name	str
+dist	float
+support	float
+categorical1_counter	str
+random_column1_avg	float
+random_column1_sum	float
+random_column1_max	float
+random_column1_min	float
+random_column1_std	float
+random_column3_sum	float

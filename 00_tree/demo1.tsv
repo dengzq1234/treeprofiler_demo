@@ -1,0 +1,9 @@
+#name,col1
+Taxa_0,0
+Taxa_1,odd
+Taxa_2,odd
+Taxa_3,shit
+Taxa_4,even
+#NODE12,here
+Taxa_1||Taxa_2||Taxa_3,odd
+Taxa_1||Taxa_2,shit

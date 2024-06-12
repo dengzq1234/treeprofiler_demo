@@ -1,0 +1,11 @@
+name	str
+dist	float
+support	float
+rank	str
+sci_name	str
+taxid	str
+lineage	str
+named_lineage	str
+evoltype	str
+dup_sp	str
+dup_percent	float

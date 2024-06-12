@@ -1,0 +1,8 @@
+name	dist	support	dup_percent	dup_sp	evoltype	lineage	named_lineage	rank	sci_name	taxid
+Root					S	1|2|79|2172|2173|2174|2175	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum	genus	g__Korarchaeum	g__Korarchaeum
+GB_GCA_011358815.1	1.0					1|2|79|2172|2173|2174|2175|2176|2177	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum|s__Korarchaeum cryptofilum|GB_GCA_011358815.1	subspecies	s__Korarchaeum cryptofilum	GB_GCA_011358815.1
+N5	0.5				S	1|2|79|2172|2173|2174|2175	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum	genus	g__Korarchaeum	g__Korarchaeum
+RS_GCF_000019605.1	1.0					1|2|79|2172|2173|2174|2175|2176|2178	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum|s__Korarchaeum cryptofilum|RS_GCF_000019605.1	subspecies	s__Korarchaeum cryptofilum	RS_GCF_000019605.1
+N4	0.5				S	1|2|79|2172|2173|2174|2175	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum	genus	g__Korarchaeum	g__Korarchaeum
+RS_GCF_003948265.1	1.0					1|2|79|2172|2173|2174|2175|2176|2179	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum|s__Korarchaeum cryptofilum|RS_GCF_003948265.1	subspecies	s__Korarchaeum cryptofilum	RS_GCF_003948265.1
+GB_GCA_003344655.1	1.0					1|2|79|2172|2173|2174|2175|5196|5197	root|d__Archaea|p__Thermoproteota|c__Korarchaeia|o__Korarchaeales|f__Korarchaeaceae|g__Korarchaeum|s__Korarchaeum sp003344655|GB_GCA_003344655.1	subspecies	s__Korarchaeum sp003344655	GB_GCA_003344655.1
