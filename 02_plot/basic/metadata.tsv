@@ -1,11 +1,11 @@
 #name	col1	col2	col3	col4	col5	col6	col7	col8	col9	col10	col11
-Phy003I7ZJ_CHICK	0.05	0.12	0.86	0.01	0.69	medium	1	True	97	w,t,t	50
+Phy003I7ZJ_CHICK	0.05	0.12	0.86	0	0.69	medium	1	True	97	w,t,t	50
 Phy0054BO3_MELGA	0.64	0.67	0.51	0.29	0.14	medium	1	True	16	r,q,s	245
 Phy00508FR_NIPNI	0.89	0.38	0.97	0.49	0.26	low	1	False	87	z,f,p	122
-Phy004O1E0_APTFO	0.1	0.09	0.38	0.31	0.41	medium	0	True	6	z,t,b	138
-Phy004PA1B_ANAPL	0.77	0.03	0.52	0.07	0.23	medium	1	True	72	z,r,p	201
+Phy004O1E0_APTFO	0	0.09	0.38	0.31	0.41	medium	0	True	6	z,t,b	138
+Phy004PA1B_ANAPL	0.77	0	0.52	0.07	0.23	medium	1	True	72	z,r,p	201
 Phy004TLNA_APAVI	0.05	0.3	0.61	0.45	0.47	medium	1	False	22	u,e,i	148
-Phy004OLZM_COLLI	0.82	0.34	0.2	0.06	0.12	low	0	True	36	u,w,v	199
+Phy004OLZM_COLLI	0.82	0.34	0.2	0	0.12	low	0	True	36	u,w,v	199
 Phy004OQ34_STRCA	0.46	0.76	0.08	0.79	0.17	high	1	False	59	k,f,g	221
 Phy00527O5_PICPB	0.68	0.27	0.89	0.36	0.49	high	1	False	75	z,m,w	127
 Phy004STVX_187382	0.33	0.95	0.22	0.34	0.38	low	1	True	44	f,x,v	224
@@ -15,7 +15,7 @@ Phy0050IUO_OPIHO	0.4	0.78	0.53	0.42	0.46	medium	1	False	34	p,s,z	182
 Phy004OLZN_COLLI	0.9	0.89	0.48	0.48	0.13	low	1	False	31	o,y,n	127
 Phy004W8WI_FALPE	0.8	0.64	0.93	0.38	0.55	medium	0	True	81	r,q,v	206
 Phy004W8WJ_FALPE	0.31	0.48	0.22	0.83	0.36	medium	1	False	20	d,u,b	250
-Phy004U0LB_BUCRH	-0.26	0.67	0.87	0.83	0.01	high	1	False	67	q,t,b	161
+Phy004U0LB_BUCRH	-0.26	0.67	0.87	0.83	0	high	1	False	67	q,t,b	161
 Phy004VACL_55661	-0.38	0.6	0.84	0.54	0.02	low	0	False	33	h,m,i	101
 Phy004V34S_CORBR	0.96	0.73	0.23	0.57	0.35	low	0	False	62	k,o,y	177
 Phy004Z0OU_MELUD	-0.8	0.03	0.56	0.32	0.63	medium	1	False	41	z,m,x	183
