@@ -1,7 +1,0 @@
-Country	str
-name	str
-dist	float
-support	float
-Country_pval	float
-Country_delta	float
-Country_counter	str

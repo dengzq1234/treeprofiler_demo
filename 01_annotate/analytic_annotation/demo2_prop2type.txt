@@ -1,8 +1,0 @@
-profile1	bool
-name	str
-dist	float
-support	float
-profile1_prec	float
-profile1_sens	float
-profile1_f1	float
-profile1_counter	str
