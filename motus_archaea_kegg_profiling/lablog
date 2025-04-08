@@ -1,0 +1,1 @@
+treeprofiler plot -t motusid_archaea_annotated.ete --taxonrectangle-layout --taxoncollapse-layout --taxonclade-layout --profiling-layout kegg --profiling-list $(cat methano_kegg_list.txt) --port 5005

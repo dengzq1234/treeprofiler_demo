@@ -1,0 +1,1 @@
+treeprofiler plot -t motusid_full_annotated.nw --internal name --prop2type motusid_full_prop2type.txt --taxonrectangle-layout --taxonclade-layout --heatmap-layout $(cat motus_env_ids.tsv) --color-config color_config.csv -s ,
