@@ -16,7 +16,13 @@ pip install --force-reinstall "git+https://github.com/dengzq1234/pastml.git@past
 # install treeprofiler 
 pip install --force-reinstall https://github.com/compgenomicslab/TreeProfiler/archive/main.zip
 ```
- 
+
+quick check using 
+```
+treeprofiler plot -t gtdb_archaea_profiling/ar53_r207.nw
+```
+you should see the tree in local browser
+
 # Usage different examples
 Run the example by executing the `lablog` of each folder.
 
